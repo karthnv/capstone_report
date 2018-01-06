@@ -1,5 +1,5 @@
 - this project uses Keras libraries with tensorflow backend.
-- OpenCV library is also used to resign, crop, read and write video clips
+- OpenCV library is also used to resize, crop, read and write video clips
 
 - There are 6 algorithms in total that have been implemented and analyzed for best accuracy.
 
